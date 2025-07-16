@@ -1,1 +1,1 @@
-This is a readme for a diff test
+The project goal is to practice Git.
